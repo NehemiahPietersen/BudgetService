@@ -1,4 +1,4 @@
-package example.budgetservice;
+package com.example.BudgetService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
